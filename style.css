@@ -79,3 +79,65 @@ body{
   margin-top: 60px;
 }
 
+/*Start Section Video & Logos */
+.video-wrapper {
+  background-color: #F2FAF8;
+  ;
+  padding: 70px 0px 70px 0px;
+  text-align: center;
+}
+
+video {
+  width: 760px;
+  height: 460px;
+}
+
+.logos-list {
+  background-color: white;
+  height: 200px;
+  padding: 80px 80px;
+  text-align: center;
+}
+
+.logos-list li {
+  float: left;
+  list-style: none;
+}
+
+.nestle {
+  width: 133.5px;
+  height: 35px;
+  margin-left: 80px;
+}
+
+.apple {
+  width: 29.48px;
+  height: 35px;
+  margin-left: 70px;
+}
+
+.beco {
+  width: 60.09px;
+  height: 40px;
+  margin-left: 70px;
+}
+
+.amazon {
+  width: 115.58px;
+  height: 35px;
+  margin-left: 70px;
+}
+
+.google {
+  width: 106.32px;
+  height: 35px;
+  margin-left: 70px;
+}
+
+.walmart {
+  width: 140.26px;
+  height: 35px;
+  margin-left: 70px;
+  margin-right: 70px;
+}
+/*End Section Video and Logos*/
