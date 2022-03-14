@@ -11,6 +11,148 @@ body{
   font-family: 'poppins-regular';
 }
 
+.container {
+  width: 1280px;
+  margin: 0 auto;
+}
+
+/*---------- Start CSS Bagian 1 ----------*/
+/*Start header */
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(255, 255, 255);
+  position: fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 40px;
+  padding-left: 50px;
+  margin-top: 20px;
+}
+
+.header-left {
+  float: left;
+  position: relative;
+}
+
+.header-left P{
+  position: absolute;
+  font-size: 20px;
+  top: 20px;
+  left: 100px;
+  color: black;
+}
+
+.text-logo {
+  padding-bottom: 30px;
+  padding-left: 360px;
+}
+.header-right {
+	padding-top: 10px;
+  float:right;
+}
+
+
+.signup {
+  color:black;
+  padding-right: 30px
+}
+
+.login {
+  background-color: #2A50C1;
+  margin-right: 30px;
+}
+
+
+.btn {
+  padding: 12px 30px;
+  color: white;
+  display: inline-block;
+  border-radius: 10px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+
+/* start wrapper */
+
+.top-wrapper {
+  padding: 130px 0 80px 0;
+  background-color: #F7F5FD;
+  background-size: cover;
+  color: black;
+  
+}
+
+.container {
+  width: 1280px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.top-wrapper h1 {
+  
+  font-size: 80px;
+  letter-spacing: 5px;
+  margin-bottom: 10px;
+  text-align: left;
+  padding-left: 50px;
+}
+
+.top-wrapper p {
+  position: static;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 32px;
+  padding-left: 50px;
+  color: #2D2D2D;
+}
+
+.box {
+  width: 400px;
+}
+
+.btn-wrapper {
+  padding-top: 50px;
+  padding-left: 50px;
+
+
+}
+
+.btn-getstart {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  border-radius: 10px;
+  color: black;
+  background-color: #DFBF70;
+
+}
+
+.wrapper-right{
+  float: right;
+  width: 25%;
+}
+.gambar {
+  position: absolute;
+  padding-top: 100px;
+  padding-right: 90px;
+  width: 400px;
+  right: 0px;
+  top: 0px;
+  bottom: 0px;
+  border-radius: 10px;
+  
+}
+
+/*---------- End CSS Bagian 1 -----------*/
+
 .container{
   width: 100%;
 }
