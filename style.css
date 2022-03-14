@@ -59,6 +59,10 @@ body{
   margin-left: 400px;
 }
 
+.user-backtick{
+  width: 25%;
+}
+
 .txt-quote{
   font-weight: 600;
   font-size: 18px;
