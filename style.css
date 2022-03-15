@@ -283,3 +283,35 @@ video {
   margin-right: 70px;
 }
 /*End Section Video and Logos*/
+
+footer{
+  padding: 40px 50px 40px 50px;
+}
+
+.logo-footer{
+  float: left;
+  width: 40px;
+}
+
+.footer-store{
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #2D2D2D;
+  margin-left: 60px;
+}
+
+.social-media{
+  text-align: end;
+}
+
+.social-media li{
+  list-style: none;
+  float: right;
+  margin-right: 18px;
+}
+
+.social-icon{
+  width:30px
+}
